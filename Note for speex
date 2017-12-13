@@ -1,0 +1,3 @@
+1.note that the stack it use is somewhat like the malloc
+2.the gamma1,gamma2 is use for  感知滤波器，which is  used to enhance the  sound,the harmoic is enhanced
+3.the pitch searching and the codebooks is still ...
